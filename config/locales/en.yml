@@ -1,0 +1,6 @@
+en:
+  hello: "Hello world"
+  errors:
+    mutant:
+      format: Incorrect format
+      is_human: Es un humano
